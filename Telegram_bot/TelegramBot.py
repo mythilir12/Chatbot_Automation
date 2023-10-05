@@ -7,7 +7,7 @@ import json
 
 from telegram.bot import Bot 
 
-bot = telegram.Bot(token='5923635818:AAFsDcVUx60nuzx6wHiDUJzst5F0xbwpdB0') #Replace TOKEN with your token string
+bot = telegram.Bot(token='6600328586:AAF8xDbP1na6KE-l3B8F7g1FQSihYrP9We0') #Replace TOKEN with your token string
 
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
 
